@@ -1,4 +1,8 @@
 package be.intecbrussel;
 
-public enum Desease {
+public enum Disease {
+    CHICKENPOCKS,
+    FLUE,
+    POLIO,
+    HEPATITISA;
 }
